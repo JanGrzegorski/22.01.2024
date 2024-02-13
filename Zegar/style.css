@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap');
+body{
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+}
+#clock{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 32px;
+    margin-top: 46%;
+    margin-left: 20px;
+    font-family: 'Amiri Quran', serif;
+}
